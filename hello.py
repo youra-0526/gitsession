@@ -1,1 +1,3 @@
-git config --global user.name"YOURA-0526"
+print("첫 번째 줄입니다.")
+
+print("두 번째 줄입니다.")
