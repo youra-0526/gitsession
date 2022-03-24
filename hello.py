@@ -1,0 +1,1 @@
+git config --global user.name"YOURA-0526"
